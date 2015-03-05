@@ -1,0 +1,8 @@
+*{-ms-transition:  0.5s}
+label.screen-reader-text { display:none; }
+#searchbox input[type="submit"] {  display: none;}
+hr.post-shadow { display: none }
+.content-box { margin: 0 0 10px 0; }
+#author-avatar { display: none }
+.attachment-thumbnail-bottom img {-ms-transition: all 0.3s ease-in-out;}
+.snow {-ms-transition:  none}
