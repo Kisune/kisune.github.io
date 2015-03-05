@@ -986,6 +986,7 @@ h2.active {
 
 .gsearch {
     padding: 0 5px;
+    display: none;
 }
 
 .gsearch input[type="text"] {
